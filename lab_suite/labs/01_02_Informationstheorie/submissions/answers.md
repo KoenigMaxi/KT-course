@@ -10,76 +10,7 @@ Nach dem Ausführen von `entropy1.py` mit eigenem Text in `sampletext.txt`:
 
 *(Wird per „Konsolenausgabe einfügen“ unten eingefügt. Danach bitte kommentieren.)*
 
-Analyze the file:  C:\_Git\KT-course\lab_suite\labs\01_02_Informationstheorie\submissions\sidedata/sampletext.txt
-
------File Contents:---------------------------------------------------
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.  
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.  
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.  
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.  
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.  
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.  
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.  
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.  
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.   
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.  
-Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.  
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-Number of characters: 12122
-Character Dictionary: {'L': 55, 'o': 801, 'r': 599, 'e': 1138, 'm': 601, ' ': 1999, 'i': 802, 'p': 202, 's': 696, 'u': 671, 'd': 489, 'l': 479, 't': 952, 'a': 840, ',': 133, 'c': 267, 'n': 469, 'g': 157, 'y': 62, 'v': 135, 'b': 108, 'q': 70, '.': 107, 'A': 28, 'j': 28, 'S': 28, 'k': 56, '\n': 42, 'D': 9, 'h': 18, 'f': 36, 'z': 15, 'U': 6, 'w': 6, 'x': 12, 'N': 3, 'C': 3}
-
--------Table of characters:----------------
-       | cnt=1999    p=0.165   H=2.600 bit/char  H_av=0.429 bit/char
- e     | cnt=1138    p=0.094   H=3.413 bit/char  H_av=0.320 bit/char
- t     | cnt=952    p=0.079   H=3.671 bit/char  H_av=0.288 bit/char
- a     | cnt=840    p=0.069   H=3.851 bit/char  H_av=0.267 bit/char
- i     | cnt=802    p=0.066   H=3.918 bit/char  H_av=0.259 bit/char
- o     | cnt=801    p=0.066   H=3.920 bit/char  H_av=0.259 bit/char
- s     | cnt=696    p=0.057   H=4.122 bit/char  H_av=0.237 bit/char
- u     | cnt=671    p=0.055   H=4.175 bit/char  H_av=0.231 bit/char
- m     | cnt=601    p=0.050   H=4.334 bit/char  H_av=0.215 bit/char
- r     | cnt=599    p=0.049   H=4.339 bit/char  H_av=0.214 bit/char
- d     | cnt=489    p=0.040   H=4.632 bit/char  H_av=0.187 bit/char
- l     | cnt=479    p=0.040   H=4.661 bit/char  H_av=0.184 bit/char
- n     | cnt=469    p=0.039   H=4.692 bit/char  H_av=0.182 bit/char
- c     | cnt=267    p=0.022   H=5.505 bit/char  H_av=0.121 bit/char
- p     | cnt=202    p=0.017   H=5.907 bit/char  H_av=0.098 bit/char
- g     | cnt=157    p=0.013   H=6.271 bit/char  H_av=0.081 bit/char
- v     | cnt=135    p=0.011   H=6.489 bit/char  H_av=0.072 bit/char
- ,     | cnt=133    p=0.011   H=6.510 bit/char  H_av=0.071 bit/char
- b     | cnt=108    p=0.009   H=6.810 bit/char  H_av=0.061 bit/char
- .     | cnt=107    p=0.009   H=6.824 bit/char  H_av=0.060 bit/char
- q     | cnt= 70    p=0.006   H=7.436 bit/char  H_av=0.043 bit/char
- y     | cnt= 62    p=0.005   H=7.611 bit/char  H_av=0.039 bit/char
- k     | cnt= 56    p=0.005   H=7.758 bit/char  H_av=0.036 bit/char
- L     | cnt= 55    p=0.005   H=7.784 bit/char  H_av=0.035 bit/char
- b'\n' | cnt= 42    p=0.003   H=8.173 bit/char  H_av=0.028 bit/char
- f     | cnt= 36    p=0.003   H=8.395 bit/char  H_av=0.025 bit/char
- A     | cnt= 28    p=0.002   H=8.758 bit/char  H_av=0.020 bit/char
- j     | cnt= 28    p=0.002   H=8.758 bit/char  H_av=0.020 bit/char
- S     | cnt= 28    p=0.002   H=8.758 bit/char  H_av=0.020 bit/char
- h     | cnt= 18    p=0.001   H=9.395 bit/char  H_av=0.014 bit/char
- z     | cnt= 15    p=0.001   H=9.658 bit/char  H_av=0.012 bit/char
- x     | cnt= 12    p=0.001   H=9.980 bit/char  H_av=0.010 bit/char
- D     | cnt=  9    p=0.001   H=10.395 bit/char  H_av=0.008 bit/char
- U     | cnt=  6    p=0.000   H=10.980 bit/char  H_av=0.005 bit/char
- w     | cnt=  6    p=0.000   H=10.980 bit/char  H_av=0.005 bit/char
- N     | cnt=  3    p=0.000   H=11.980 bit/char  H_av=0.003 bit/char
- C     | cnt=  3    p=0.000   H=11.980 bit/char  H_av=0.003 bit/char
--------------------------------------------
-
-Average Entropy H = 4.165 bit/char
-Total Entropy of 12122 characters H=50487.91 bit = 6311.00 byte
+---
 
 
 **2. Deine Kommentierung:**
@@ -93,9 +24,226 @@ Total Entropy of 12122 characters H=50487.91 bit = 6311.00 byte
 3. Der Text besteht aus 12.122 Zeichen.In einer normalen Textdatei belegt dies ca. 12,1 KB.Die berechnete Gesamtentropie beträgt jedoch nur 6.311 Byte (ca. 6,3 KB). Das ist die Menge an Information, die in der Datei steht.
 
    
-5. Im Vergleich zu anderen Texten fällt auf, dass die Entropy realtiv ähnlich ist. Auch beim informationsgehalt fällt auf, dass 
+4. Im Vergleich zu anderen Texten fällt auf, dass die Entropy realtiv ähnlich ist. Auch beim informationsgehalt fällt auf, dass 
 dieser fasst um die Hälfte weniger speicherplatz braucht als der Volltext.
 
 Weiterer Text (Aus der Bibel):
 Average Entropy H = 4.466 bit/char
 Total Entropy of 3933 characters H=17565.44 bit = 2196.00 byte
+
+---
+
+## Konsolenausgabe
+
+```
+Analyze the file:  c:\_Git\KT-course\lab_suite\labs\01_02_Informationstheorie\sampletext.txt
+
+-----File Contents:---------------------------------------------------
+#!/usr/bin/env python3
+
+"""
+
+Matplotlib-Demo: Sinussignal erzeugen und anzeigen.
+
+
+
+Dieses Skript zeigt den typischen Ablauf:
+
+  1. Signalparameter am Anfang definieren (gut lesbar fÃ¼r Ã„nderungen)
+
+  2. Zeitachse und Sinussignal mit NumPy erzeugen
+
+  3. Mit Matplotlib in einem Fenster plotten
+
+
+
+AusfÃ¼hren (aus lab_suite):  python labs/01_01_Signale_basics/matplotlib-demo.py
+
+"""
+
+from __future__ import annotations
+
+
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+
+
+# =============================================================================
+
+# Signalparameter â€“ hier anpassen (fÃ¼r Studierende gut sichtbar)
+
+# =============================================================================
+
+
+
+# Frequenz des Sinus in Hz (wie oft pro Sekunde eine volle Schwingung)
+
+FREQUENCY_HZ = 2.0
+
+
+
+# Amplitude (maximale Auslenkung des Signals, Einheit z. B. Volt oder normiert)
+
+AMPLITUDE = 1.0
+
+
+
+# Abtastrate in Hz (wie viele Werte pro Sekunde wir aufnehmen)
+
+# Sollte mindestens doppelt so groÃŸ wie FREQUENCY_HZ sein (Abtasttheorem)
+
+SAMPLE_RATE_HZ = 100.0
+
+
+
+# Dauer des Signals in Sekunden
+
+DURATION_S = 2.0
+
+
+
+# =============================================================================
+
+# Zeitachse und Sinussignal erzeugen
+
+# =============================================================================
+
+
+
+# Anzahl der Abtastwerte
+
+num_samples = int(SAMPLE_RATE_HZ * DURATION_S)
+
+
+
+# Zeitpunkte: von 0 bis (DURATION_S - 1/SAMPLE_RATE_HZ), gleichmÃ¤ÃŸig verteilt
+
+t = np.linspace(0, DURATION_S, num_samples, endpoint=False)
+
+
+
+# Sinussignal:  x(t) = A * sin(2 * pi * f * t)
+
+# np.sin erwartet Winkel im BogenmaÃŸ; 2*pi*f*t liefert die Phase pro Zeit t
+
+signal = AMPLITUDE * np.sin(2 * np.pi * FREQUENCY_HZ * t)
+
+
+
+# =============================================================================
+
+# Mit Matplotlib plotten
+
+# =============================================================================
+
+
+
+plt.figure(figsize=(10, 4))
+
+plt.plot(t, signal, color="C0", linewidth=1.5, label=f"sin, f={FREQUENCY_HZ} Hz")
+
+plt.xlabel("Zeit (s)")
+
+plt.ylabel("Amplitude")
+
+plt.title("Sinussignal (Matplotlib-Demo)")
+
+plt.grid(True, alpha=0.5)
+
+plt.legend()
+
+plt.tight_layout()
+
+plt.show()
+
+Number of characters: 2142
+Character Dictionary: {'#': 19, '!': 1, '/': 6, 'u': 42, 's': 61, 'r': 47, 'b': 20, 'i': 95, 'n': 94, 'e': 121, 'v': 5, ' ': 192, 'p': 54, 'y': 9, 't': 95, 'h': 19, 'o': 41, '3': 2, '\n': 60, '"': 16, 'M': 11, 'a': 62, 'l': 74, '-': 4, 'D': 10, 'm': 31, ':': 5, 'S': 25, 'g': 33, 'z': 12, 'd': 26, '.': 27, 'k': 7, 'c': 9, 'A': 23, 'f': 17, '1': 8, '(': 25, 'Ã': 8, '¼': 3, '„': 1, ')': 25, '2': 6, 'Z': 12, 'N': 9, 'P': 7, 'F': 7, '_': 25, '0': 13, '=': 477, 'â': 1, '€': 1, '“': 1, 'q': 1, 'H': 10, 'w': 9, 'R': 11, 'E': 17, 'Q': 4, 'U': 10, 'C': 5, 'Y': 4, 'x': 3, ',': 12, 'B': 2, 'V': 1, 'L': 5, 'I': 6, 'T': 10, 'W': 2, 'Ÿ': 3, 'O': 4, '*': 12, '¤': 1, ';': 1, '4': 1, '5': 2, '{': 1, '}': 1}
+
+-------Table of characters:----------------
+ =     | cnt=477    p=0.223   H=2.167 bit/char  H_av=0.483 bit/char
+       | cnt=192    p=0.090   H=3.480 bit/char  H_av=0.312 bit/char
+ e     | cnt=121    p=0.056   H=4.146 bit/char  H_av=0.234 bit/char
+ i     | cnt= 95    p=0.044   H=4.495 bit/char  H_av=0.199 bit/char
+ t     | cnt= 95    p=0.044   H=4.495 bit/char  H_av=0.199 bit/char
+ n     | cnt= 94    p=0.044   H=4.510 bit/char  H_av=0.198 bit/char
+ l     | cnt= 74    p=0.035   H=4.855 bit/char  H_av=0.168 bit/char
+ a     | cnt= 62    p=0.029   H=5.111 bit/char  H_av=0.148 bit/char
+ s     | cnt= 61    p=0.028   H=5.134 bit/char  H_av=0.146 bit/char
+ b'\n' | cnt= 60    p=0.028   H=5.158 bit/char  H_av=0.144 bit/char
+ p     | cnt= 54    p=0.025   H=5.310 bit/char  H_av=0.134 bit/char
+ r     | cnt= 47    p=0.022   H=5.510 bit/char  H_av=0.121 bit/char
+ u     | cnt= 42    p=0.020   H=5.672 bit/char  H_av=0.111 bit/char
+ o     | cnt= 41    p=0.019   H=5.707 bit/char  H_av=0.109 bit/char
+ g     | cnt= 33    p=0.015   H=6.020 bit/char  H_av=0.093 bit/char
+ m     | cnt= 31    p=0.014   H=6.111 bit/char  H_av=0.088 bit/char
+ .     | cnt= 27    p=0.013   H=6.310 bit/char  H_av=0.080 bit/char
+ d     | cnt= 26    p=0.012   H=6.364 bit/char  H_av=0.077 bit/char
+ S     | cnt= 25    p=0.012   H=6.421 bit/char  H_av=0.075 bit/char
+ (     | cnt= 25    p=0.012   H=6.421 bit/char  H_av=0.075 bit/char
+ )     | cnt= 25    p=0.012   H=6.421 bit/char  H_av=0.075 bit/char
+ _     | cnt= 25    p=0.012   H=6.421 bit/char  H_av=0.075 bit/char
+ A     | cnt= 23    p=0.011   H=6.541 bit/char  H_av=0.070 bit/char
+ b     | cnt= 20    p=0.009   H=6.743 bit/char  H_av=0.063 bit/char
+ #     | cnt= 19    p=0.009   H=6.817 bit/char  H_av=0.060 bit/char
+ h     | cnt= 19    p=0.009   H=6.817 bit/char  H_av=0.060 bit/char
+ f     | cnt= 17    p=0.008   H=6.977 bit/char  H_av=0.055 bit/char
+ E     | cnt= 17    p=0.008   H=6.977 bit/char  H_av=0.055 bit/char
+ "     | cnt= 16    p=0.007   H=7.065 bit/char  H_av=0.053 bit/char
+ 0     | cnt= 13    p=0.006   H=7.364 bit/char  H_av=0.045 bit/char
+ z     | cnt= 12    p=0.006   H=7.480 bit/char  H_av=0.042 bit/char
+ Z     | cnt= 12    p=0.006   H=7.480 bit/char  H_av=0.042 bit/char
+ ,     | cnt= 12    p=0.006   H=7.480 bit/char  H_av=0.042 bit/char
+ *     | cnt= 12    p=0.006   H=7.480 bit/char  H_av=0.042 bit/char
+ M     | cnt= 11    p=0.005   H=7.605 bit/char  H_av=0.039 bit/char
+ R     | cnt= 11    p=0.005   H=7.605 bit/char  H_av=0.039 bit/char
+ D     | cnt= 10    p=0.005   H=7.743 bit/char  H_av=0.036 bit/char
+ H     | cnt= 10    p=0.005   H=7.743 bit/char  H_av=0.036 bit/char
+ U     | cnt= 10    p=0.005   H=7.743 bit/char  H_av=0.036 bit/char
+ T     | cnt= 10    p=0.005   H=7.743 bit/char  H_av=0.036 bit/char
+ y     | cnt=  9    p=0.004   H=7.895 bit/char  H_av=0.033 bit/char
+ c     | cnt=  9    p=0.004   H=7.895 bit/char  H_av=0.033 bit/char
+ N     | cnt=  9    p=0.004   H=7.895 bit/char  H_av=0.033 bit/char
+ w     | cnt=  9    p=0.004   H=7.895 bit/char  H_av=0.033 bit/char
+ 1     | cnt=  8    p=0.004   H=8.065 bit/char  H_av=0.030 bit/char
+ Ã     | cnt=  8    p=0.004   H=8.065 bit/char  H_av=0.030 bit/char
+ k     | cnt=  7    p=0.003   H=8.257 bit/char  H_av=0.027 bit/char
+ P     | cnt=  7    p=0.003   H=8.257 bit/char  H_av=0.027 bit/char
+ F     | cnt=  7    p=0.003   H=8.257 bit/char  H_av=0.027 bit/char
+ /     | cnt=  6    p=0.003   H=8.480 bit/char  H_av=0.024 bit/char
+ 2     | cnt=  6    p=0.003   H=8.480 bit/char  H_av=0.024 bit/char
+ I     | cnt=  6    p=0.003   H=8.480 bit/char  H_av=0.024 bit/char
+ v     | cnt=  5    p=0.002   H=8.743 bit/char  H_av=0.020 bit/char
+ :     | cnt=  5    p=0.002   H=8.743 bit/char  H_av=0.020 bit/char
+ C     | cnt=  5    p=0.002   H=8.743 bit/char  H_av=0.020 bit/char
+ L     | cnt=  5    p=0.002   H=8.743 bit/char  H_av=0.020 bit/char
+ -     | cnt=  4    p=0.002   H=9.065 bit/char  H_av=0.017 bit/char
+ Q     | cnt=  4    p=0.002   H=9.065 bit/char  H_av=0.017 bit/char
+ Y     | cnt=  4    p=0.002   H=9.065 bit/char  H_av=0.017 bit/char
+ O     | cnt=  4    p=0.002   H=9.065 bit/char  H_av=0.017 bit/char
+ ¼     | cnt=  3    p=0.001   H=9.480 bit/char  H_av=0.013 bit/char
+ x     | cnt=  3    p=0.001   H=9.480 bit/char  H_av=0.013 bit/char
+ Ÿ     | cnt=  3    p=0.001   H=9.480 bit/char  H_av=0.013 bit/char
+ 3     | cnt=  2    p=0.001   H=10.065 bit/char  H_av=0.009 bit/char
+ B     | cnt=  2    p=0.001   H=10.065 bit/char  H_av=0.009 bit/char
+ W     | cnt=  2    p=0.001   H=10.065 bit/char  H_av=0.009 bit/char
+ 5     | cnt=  2    p=0.001   H=10.065 bit/char  H_av=0.009 bit/char
+ !     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ „     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ â     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ €     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ “     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ q     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ V     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ ¤     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ ;     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ 4     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ {     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+ }     | cnt=  1    p=0.000   H=11.065 bit/char  H_av=0.005 bit/char
+-------------------------------------------
+
+Average Entropy H = 4.831 bit/char
+Total Entropy of 2142 characters H=10348.32 bit = 1294.00 byte
+```
