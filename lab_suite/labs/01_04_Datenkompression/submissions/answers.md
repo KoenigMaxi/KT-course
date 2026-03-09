@@ -20,7 +20,7 @@ Nach dem Ausführen von `word_dictionary.py` mit eigenem Text in `sampletext.txt
 - Was sagt die Entropie in Byte im Vergleich zur tatsächlichen Dateigröße aus?  
   Die Entropie in Byte (607 Bytes) stellt das theoretische Minimum dar, auf das man den Text komprimieren könnte. Die tatsächliche Dateigröße beträgt 3977 Bytes. 
   Das heißt, dass die Datei zu etwa 80% aus redundanter Information besteht. 
-  Würde man ein Wörterbuch-basiertes Kompressionsverfahren nutzen, könnte man die Datei also massiv verkleinern.
+
 ---
 
   ## Konsolenausgabe
